@@ -6,11 +6,11 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/turuncyasam" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: https://www.instagram.com/turuncyasam/   #if your site has a twitter account, enter it here
+site-twitter:  #if your site has a twitter account, enter it here
 
 # Author Settings
 author: sey # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: seyma.jpg # add your photo
 about-author: Ebe Hemşire / Nurse Midwife  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
