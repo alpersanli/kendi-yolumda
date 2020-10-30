@@ -7,10 +7,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter:  #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Şeyma Sırakaya # add your name
+author: Şeyma  # add your name
 author-img: seyma.jpg # add your photo
-about-author: Ebe Hemşire / Nurse Midwife 
-@marmaraumay Kurucu YK # add description
+about-author: Ebe Hemşire / Nurse Midwife @marmaraumay Kurucu YK # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social -instagram: turuncyasam # add your Github handle
